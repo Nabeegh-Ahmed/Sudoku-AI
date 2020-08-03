@@ -16,3 +16,5 @@ This project uses the Backtracking Algorithm to solve a given Sudoku Puzzle.
 # What I learned?
 <li>Backtracking Algorithm</li>
 <li>Practiced Recursion</li>
+# License
+MIT License. Credits due where used. No credits required for educational projects.
